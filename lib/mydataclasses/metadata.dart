@@ -1,6 +1,6 @@
 import 'package:diet_planner/domain/enums.dart';
 import 'package:diet_planner/api/dri.dart';
-import 'package:diet_planner/domain/nutrtion_app_domain.dart';
+import 'package:diet_planner/domain/diet_planner_domain.dart';
 import 'package:ari_utils/ari_utils.dart';
 import 'dart:convert';
 import 'package:diet_planner/domain.dart';
