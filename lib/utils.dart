@@ -7,4 +7,4 @@ library util;
 export 'package:diet_planner/utils/utils.dart';
 export 'package:diet_planner/utils/local_widgets.dart';
 export 'package:diet_planner/utils/storage.dart';
-export 'package:diet_planner/utils/shared_functionalities.dart';
+//export 'package:diet_planner/utils/shared_functionalities.dart';

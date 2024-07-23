@@ -50,6 +50,10 @@ dependencies:
   path_provider: ^2.0.15
   lecle_downloads_path_provider: ^0.0.2+8
   extended_image: 8.0.2
+  dataclasses:
+      git:
+          url: https://github.com/SimpleTheory/dart-dataclasses.git
+          ref: main
 
 
 

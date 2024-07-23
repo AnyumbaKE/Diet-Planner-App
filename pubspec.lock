@@ -185,6 +185,15 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.8"
+  dataclasses:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: main
+      resolved-ref: "1b6bfcc525ed937b90f9d5d13b243c54df4165ae"
+      url: "https://github.com/SimpleTheory/dart-dataclasses.git"
+    source: git
+    version: "0.0.2"
   dio:
     dependency: "direct main"
     description:
