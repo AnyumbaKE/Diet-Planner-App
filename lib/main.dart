@@ -2,14 +2,14 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:hive_flutter/adapters.dart';
-import 'package:nutrition_app/blocs/micro_blocs/saver.dart';
-import 'package:nutrition_app/blocs/settings/settings_bloc.dart';
-import 'package:nutrition_app/screens/index.dart';
-import 'package:nutrition_app/screens/init.dart';
+import 'package:diet_planner/blocs/micro_blocs/saver.dart';
+import 'package:diet_planner/blocs/settings/settings_bloc.dart';
+import 'package:diet_planner/screens/index.dart';
+import 'package:diet_planner/screens/init.dart';
 import 'blocs/index/index_bloc.dart';
 import 'blocs/init/init_bloc.dart';
 import 'blocs/init/settings/init_settings_bloc.dart';
-import 'domain/nutrtion_app_domain.dart';
+import 'domain/diet_planner_domain.dart';
 import 'utils.dart';
 
 void main() async {
